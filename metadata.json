@@ -1,0 +1,6 @@
+{
+  "name": "DeskLink",
+  "description": "Fast, low-latency PC remote control for Windows 10/11 with trackpad, keyboard, voice dictation, screen streaming, and clipboard sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

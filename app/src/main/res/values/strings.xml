@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeskLink</string>
+    <string name="desc_trackpad">Trackpad</string>
+    <string name="desc_keyboard">Keyboard</string>
+    <string name="desc_screen">Screen Mirror</string>
+    <string name="desc_mic">Mic &amp; Voice</string>
+    <string name="desc_clipboard">Clipboard</string>
+    <string name="desc_connect">Connect</string>
+</resources>
